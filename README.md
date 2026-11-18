@@ -26,6 +26,7 @@ As alterações foram divididas entre o kernel do SO e as aplicações de usuár
 *   **Adicionado:** `examples/fragtest/Kconfig`. Configurações do menu (`make menuconfig`) para a aplicação.
 *   **Adicionado:** `examples/fragtest/Make.defs`. Inclusão da pasta no build do repositório `apps`.
 *   **Adicionado:** `examples/fragtest/Makefile`. Regras de compilação do executável.
+*   **Modificado:** `examples/Kconfig`. Inclusão do arquivo `Kconfig` da aplicação na lista de `Examples` do `menuconfig`.
 
 ## 3. Estruturas e Funções Internas Utilizadas
 
