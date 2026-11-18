@@ -1,8 +1,8 @@
 # Segundo Trabalho Prático - Sistemas Operacionais Embarcados
 
-**Autor:** Thomas Tavares Tomaz
-**Plataforma:** ESP32-DevKitC (Build FLAT)
-**SO:** Apache NuttX (v13.1.0)
+- **Autor:** Thomas Tavares Tomaz
+- **Plataforma:** ESP32-DevKitC (Build FLAT)
+- **SO:** Apache NuttX (v13.1.0)
 
 ---
 
